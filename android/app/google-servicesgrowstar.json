@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257205489456",
+    "project_id": "growstarpush2",
+    "storage_bucket": "growstarpush2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257205489456:android:b98c157dedd431996002f5",
+        "android_client_info": {
+          "package_name": "growstar.com.marvid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257205489456-4hhnfvnvvugr7ndchqn58va410u5mkrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_egNixo9fENZOgLu-fqOln6-URifVdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257205489456-4hhnfvnvvugr7ndchqn58va410u5mkrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

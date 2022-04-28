@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755934540622",
+    "firebase_url": "https://kitchensneed-3324d.firebaseio.com",
+    "project_id": "kitchensneed-3324d",
+    "storage_bucket": "kitchensneed-3324d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755934540622:android:a781effa824524864d241f",
+        "android_client_info": {
+          "package_name": "marvid.com.marvid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755934540622-uamqqtusdcaq7nf3s1je6qulovnuedq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4Eq5W7DDkOmv91MNo8RLVQ5B-PpzV7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755934540622-uamqqtusdcaq7nf3s1je6qulovnuedq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824141049452",
+    "project_id": "dermanninger-8dbb0",
+    "storage_bucket": "dermanninger-8dbb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824141049452:android:31f442fc5f30c26c1d7249",
+        "android_client_info": {
+          "package_name": "com.dermanninger.appl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824141049452-ge7etd8snsn5c0ql50u3066huq7ma9vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3j_n56Frvubj1pyD71wbxuG3waNfQHuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824141049452-ge7etd8snsn5c0ql50u3066huq7ma9vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

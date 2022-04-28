@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393426213682",
+    "project_id": "mallgadi",
+    "storage_bucket": "mallgadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393426213682:android:6a6614249789b8e5a6552b",
+        "android_client_info": {
+          "package_name": "com.mallgadi.appl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393426213682-oqh9a5tae9gimniudd9kllps45clnu41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQKJxS9B3Ul0vdWgn14sFs3nUAa0tQEn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393426213682-oqh9a5tae9gimniudd9kllps45clnu41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
